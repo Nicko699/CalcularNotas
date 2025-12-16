@@ -38,7 +38,7 @@ Una vez ingresadas todas las notas, el programa calculará y mostrará el promed
 🛠️ Tecnologías utilizadas
 Java – Lenguaje de programación principal
 
-💡 Ejemplo
+💡 Ejemplo:
 Ingrese la primera nota: 4.5
 Ingrese la segunda nota: 3.7
 Ingrese la tercera nota: 5.0
